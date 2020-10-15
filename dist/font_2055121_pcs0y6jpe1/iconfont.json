@@ -1,0 +1,44 @@
+{
+  "id": "2055121",
+  "name": "bmap",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3262684",
+      "name": "化学 实验",
+      "font_class": "huaxueshiyan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3745174",
+      "name": "化学",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "4075987",
+      "name": "化学",
+      "font_class": "huaxue",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5595434",
+      "name": "化学实验-10",
+      "font_class": "huaxueshiyan-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5595444",
+      "name": "化学实验-22",
+      "font_class": "huaxueshiyan-1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
